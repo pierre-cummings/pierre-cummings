@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Pierre 👋
 
-<!--
-**pierre-cummings/pierre-cummings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Data Analyst** with experience in **operations and process improvement**.
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into insights that help businesses make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+SQL • Python • Power BI • Data Visualization • Data Analysis • Business Intelligence
+
+---
+
+## Tools
+
+- SQL Server
+- Power BI Desktop
+- Python (Pandas, Matplotlib)
+- Jupyter Notebook
+- GitHub
+
+---
+
+## Featured Projects
+
+### 📊 Power BI Sales Dashboard
+Interactive sales dashboard analyzing retail performance across categories, regions, and time.
+
+Tools:
+Power BI • Power Query • DAX
+
+---
+
+### 🗄 SQL Sales Analysis
+SQL queries analyzing sales data to identify key performance metrics and trends.
+
+Tools:
+SQL Server • SQL Server Management Studio
+
+---
+
+### 🐍 Python Data Analysis
+Exploratory data analysis using Python to discover patterns in retail sales data.
+
+Tools:
+Python • Pandas • Matplotlib
+
+---
+
+## Current Focus
+
+Building real-world data analytics projects and expanding my skills in:
+
+- SQL
+- Power BI
+- Python
+- Business Intelligence
