@@ -27,6 +27,8 @@ SQL • Python • Power BI • Data Visualization • Data Analysis • Busines
 ### 📊 Power BI Sales Dashboard
 Interactive sales dashboard analyzing retail performance across categories, regions, and time.
 
+![Dashboard Preview](powerbi-sales-dashboard/screenshots/powerbi_dashboard.png)
+
 Tools:
 Power BI • Power Query • DAX
 
