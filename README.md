@@ -1,6 +1,6 @@
 # Hi, I'm Pierre 👋
 
-Aspiring **Data Analyst** with experience in **operations and process improvement**.
+**Data Analyst** with experience in **operations and process improvement**.
 
 I enjoy transforming raw data into insights that help businesses make better decisions.
 
@@ -32,10 +32,18 @@ Interactive sales dashboard analyzing retail performance across categories, regi
 Tools:
 Power BI • Power Query • DAX
 
+### 📊 Power BI Warehouse Maintenance & Reliability Dashboard
+Interactive sales dashboard analyzing retail performance across categories, regions, and time.
+
+![Warehouse Maintenance & Reliability Dashboard](images/Executive_Overview.png)
+
+Tools:
+Power BI • Power Query • DAX
+
 ---
 
-### 🗄 SQL Sales Analysis
-SQL queries analyzing sales data to identify key performance metrics and trends.
+### 🗄 SQL Analysis
+SQL queries analyzing  data to identify key performance metrics and trends.
 
 Tools:
 SQL Server • SQL Server Management Studio
@@ -43,7 +51,7 @@ SQL Server • SQL Server Management Studio
 ---
 
 ### 🐍 Python Data Analysis
-Exploratory data analysis using Python to discover patterns in retail sales data.
+Exploratory data analysis using Python to discover patterns in data.
 
 Tools:
 Python • Pandas • Matplotlib
@@ -58,3 +66,4 @@ Building real-world data analytics projects and expanding my skills in:
 - Power BI
 - Python
 - Business Intelligence
+- Operations & Reliability
