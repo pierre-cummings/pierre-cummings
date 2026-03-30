@@ -1,6 +1,6 @@
 # Hi, I'm Pierre 👋
 
-**Data Analyst** with experience in **operations and process improvement**.
+**Data Analyst** with experience in **operations, reliatbility, and process improvement**.
 
 I enjoy transforming raw data into insights that help businesses make better decisions.
 
@@ -33,9 +33,10 @@ Tools:
 Power BI • Power Query • DAX
 
 ### 📊 Power BI Warehouse Maintenance & Reliability Dashboard
-Interactive sales dashboard analyzing retail performance across categories, regions, and time.
+Interactive warehouse dashboard analyzing maintenance and reliability performance across equipment, warehouse locations, and time.
 
-![Warehouse Maintenance & Reliability Dashboard](images/Executive_Overview.png)
+<img width="1920" height="1048" alt="Executive Overview" src="https://github.com/user-attachments/assets/be86c5b0-466e-478e-a239-741ae06fd06f" />
+
 
 Tools:
 Power BI • Power Query • DAX
